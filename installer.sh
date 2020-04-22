@@ -7,7 +7,7 @@ git clone https://github.com/TSEG24/gamemotion.git
 
 echo "installing dependencies ..."
 
-pip3 install qibullet numpy opencv-python
+pip3 install qibullet numpy opencv-python future
 
 echo "Downloading vision code ..."
 
