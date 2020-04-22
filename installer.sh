@@ -18,3 +18,5 @@ echo "Installing vision code ..."
 cd TSE-Vision
 cmake .
 cmake --build .
+
+echo "done :)"
